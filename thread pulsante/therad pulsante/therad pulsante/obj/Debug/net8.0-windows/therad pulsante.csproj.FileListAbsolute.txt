@@ -1,0 +1,33 @@
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.exe
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.deps.json
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.runtimeconfig.json
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.pdb
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad_pulsante.Form1.resources
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.AssemblyInfoInputs.cache
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.AssemblyInfo.cs
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\refint\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.pdb
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.genruntimeconfig.cache
+C:\Users\shuai.21032\Desktop\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\ref\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.exe
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.deps.json
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.runtimeconfig.json
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\bin\Debug\net8.0-windows\therad pulsante.pdb
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad_pulsante.Form1.resources
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.AssemblyInfoInputs.cache
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.AssemblyInfo.cs
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.sourcelink.json
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\refint\therad pulsante.dll
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.pdb
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\therad pulsante.genruntimeconfig.cache
+C:\Users\shuai.21032\Desktop\therad-spostabuttone\thread pulsante\therad pulsante\therad pulsante\obj\Debug\net8.0-windows\ref\therad pulsante.dll
